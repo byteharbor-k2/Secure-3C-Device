@@ -12,7 +12,7 @@
 
 | 文档 | 说明 |
 |------|------|
-| [CODEX.md](./CODEX.md) | 协作手册（Howie + Codex，持续更新） |
+| [AGENT.md](./AGENT.md) | 协作手册（byteharbor + Codex，持续更新） |
 | [docs/01-system-analysis/](./docs/01-system-analysis/) | 系统架构分析（系统分身原理） |
 | [docs/02-network-security/](./docs/02-network-security/) | 网络安全（DNS/WebRTC 防护） |
 | [docs/03-app-management/](./docs/03-app-management/) | 应用安全管理（Debloat 日志、安装实践） |
@@ -237,6 +237,6 @@ OPPO 国内版 Reno9 5G 官方未提供 Bootloader 解锁渠道。这在客观�
 
 ---
 
-**维护者**: howie
+**维护者**: byteharbor
 **许可协议**: CC BY-NC-SA 4.0
 **最后更新**: 2026-02-14

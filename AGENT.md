@@ -1,6 +1,6 @@
 # Secure Android Sandbox - CODEX 协作手册
 
-> 本文件由 howie + Codex 共同维护，用于记录当前项目共识、执行边界与文档维护规则。  
+> 本文件由 byteharbor + Codex 共同维护，用于记录当前项目共识、执行边界与文档维护规则。  
 > 可随研究进展直接修改，不追求“永久正确”，追求“当前可执行”。
 
 ## 1. 项目定位（当前共识）
@@ -30,7 +30,7 @@
 
 详细分析：[`docs/01-system-analysis/system-clone-limitations.md`](./docs/01-system-analysis/system-clone-limitations.md)
 
-## 3. 协作规则（Howie + Codex）
+## 3. 协作规则（byteharbor + Codex）
 
 ### 文档更新原则
 
@@ -101,5 +101,5 @@ Secure-Android-Sandbox/
 
 ---
 
-**维护者**: howie + Codex
+**维护者**: byteharbor + Codex
 **最后更新**: 2026-02-24

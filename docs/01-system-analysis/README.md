@@ -147,7 +147,7 @@ OPPO Reno9 5G的Bootloader锁定且无官方解锁渠道，无法Root。即使�
 ## 相关文档
 
 - [完整技术分析文档](./technical-deep-dive.md) — 13章节深入技术原理和架构分析
-- [项目协作手册](../../CODEX.md) — Howie + Codex 协作约定与当前策略
+- [项目协作手册](../../AGENT.md) — byteharbor + Codex 协作约定与当前策略
 - [威胁模型](../../README.md) — 安全威胁分析与研究
 
 ---
