@@ -22,7 +22,7 @@
 ## 项目结构（精简）
 
 ```text
-Secure-Android-Sandbox/
+Secure-3C-Device/
 ├── README.md
 ├── CODEX.md
 ├── docs/

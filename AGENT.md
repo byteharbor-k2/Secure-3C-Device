@@ -72,7 +72,7 @@ Codex 可协助：
 ## 4. 仓库结构（当前）
 
 ```text
-Secure-Android-Sandbox/
+Secure-3C-Device/
 ├── README.md                 # 项目主页（威胁模型、总策略、引用）
 ├── CODEX.md                  # 本文件（协作手册）
 ├── docs/

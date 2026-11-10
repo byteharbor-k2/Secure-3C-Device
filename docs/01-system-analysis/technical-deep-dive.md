@@ -552,5 +552,5 @@ com.nearme.statistics.rom       # 系统统计上报
 ---
 
 **文档维护者**: byteharbor
-**项目仓库**: Secure-Android-Sandbox
+**项目仓库**: Secure-3C-Device
 **许可协议**: 本文档仅供技术研究和授权设备调试使用，禁止用于非法入侵或破坏他人设备。
